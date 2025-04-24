@@ -2,6 +2,8 @@
 
 - O objetivo deste projeto foi criar a estrutura de um banco de dados utilizando a linguagem SQL, com base em um Diagrama Entidade-Relacionamento previamente definido. Após a criação das tabelas, inseri dados no banco de dados que desenvolvi. Em seguida, realizei consultas nos dados armazenados por meio da criação de uma visão (VIEW), o que me permite visualizar as informações de maneira organizada e acessível.
 
+- Neste projeto, desenvolvi a estrutura de um banco de dados utilizando a linguagem SQL, seguindo um Diagrama Entidade-Relacionamento previamente definido. Após a criação das tabelas, inseri dados no banco de dados que configurei. Em seguida, executei consultas nos dados armazenados por meio da criação de uma visão (VIEW), o que me possibilitou examinar as informações de maneira estruturada e clara.
+
 <div>
   <img src="Banco de Dados/DER.png" width="500px">
 </div>
@@ -16,7 +18,7 @@
       <td> • Durante a criação do banco de dados conforme a figura, segui algumas regra importantes. Primeiro, defini todas as chaves primárias como autoincremento. Além disso, respeitei os relacionamentos,   tipos, precisões e restrições de não nulo para garantir a integridade dos dados. 
     </thead>
     <thead>
-     <td> • Especificamente, para o campo <b>'Situação' na tabela 'ContaReceber'</b>, optei por utilizar o tipo ENUM, limitando os valores a três opções, onde <b>1 - Conta registrada</b>, <b> 2 - Conta cancelada</b> e <b>3 - Conta paga</b>.</td>
+     <td> • Especificamente, para o campo <b>'Situação' na tabela 'ContaReceber'</b>, optei por utilizar o tipo ENUM, limitando os valores a três opções: <br/>  <b>1 - Conta registrada</b>, <b> 2 - Conta cancelada</b> e <b>3 - Conta paga</b>.</td>
     </thead>
     <thead>
       <td> • Criei um script chamado "inserir.sql" que contém os comandos de manipulação de dados (DML). O objetivo desse script é popular todas as tabelas que existem na base dados. Para isso, inseri pelo menos três registros em cada tabela, garantindo que os dados fossem adequadamente preenchidos e representassem as informações necessárias para o funcionamento da aplicação.</td>
