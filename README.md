@@ -2,8 +2,6 @@
 
 - O objetivo deste projeto foi criar a estrutura de um banco de dados utilizando a linguagem SQL, com base em um Diagrama Entidade-Relacionamento previamente definido. Após a criação das tabelas, inseri dados no banco de dados que desenvolvi. Em seguida, realizei consultas nos dados armazenados por meio da criação de uma visão (VIEW), o que me permite visualizar as informações de maneira organizada e acessível.
 
-- Neste projeto, desenvolvi a estrutura de um banco de dados utilizando a linguagem SQL, seguindo um Diagrama Entidade-Relacionamento previamente definido. Após a criação das tabelas, inseri dados no banco de dados que configurei. Em seguida, executei consultas nos dados armazenados por meio da criação de uma visão (VIEW), o que me possibilitou examinar as informações de maneira estruturada e clara.
-
 <div>
   <img src="Banco de Dados/DER.png" width="500px">
 </div>
