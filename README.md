@@ -13,7 +13,10 @@
   </thead>
   <tbody>
     <thead>
-      <td> • Durante a criação do banco de dados conforme a figura, segui algumas regra importantes. Primeiro, defini todas as chaves primárias como autoincremento. Além disso, respeitei os relacionamentos,   tipos, precisões e restrições de não nulo para garantir a integridade dos dados. Especificamente, para o campo 'Situação' na tabela 'ContaReceber', optei por utilizar o tipo ENUM, limitando os valores a 1, 2 ou 3, onde 1 representa 'Conta registrada', 2 significa 'Conta cancelada' e 3 corresponde a 'Conta paga'.</td>
+      <td> • Durante a criação do banco de dados conforme a figura, segui algumas regra importantes. Primeiro, defini todas as chaves primárias como autoincremento. Além disso, respeitei os relacionamentos,   tipos, precisões e restrições de não nulo para garantir a integridade dos dados. 
+    </thead>
+    <thead>
+     <td> • Especificamente, para o campo <b>'Situação' na tabela 'ContaReceber'</b>, optei por utilizar o tipo ENUM, limitando os valores a três opções, onde <b>1 - Conta registrada</b>, <b> 2 - Conta cancelada</b> e <b>3 - Conta paga</b>.</td>
     </thead>
     <thead>
       <td> • Criei um script chamado "inserir.sql" que contém os comandos de manipulação de dados (DML). O objetivo desse script é popular todas as tabelas que existem na base dados. Para isso, inseri pelo menos três registros em cada tabela, garantindo que os dados fossem adequadamente preenchidos e representassem as informações necessárias para o funcionamento da aplicação.</td>
