@@ -1,6 +1,6 @@
 # Banco de Dados da Loja Virtual 🛢
 
-- O objetivo deste projeto foi criar a estrutura de um banco de dados utilizando a linguagem SQL, com base em um Diagrama Entidade-Relacionamento previamente definido. Após a criação das tabelas, inseri dados no banco de dados que desenvolvi. Em seguida, realizei consultas nos dados armazenados por meio da criação de uma visão (VIEW), o que me permite visualizar as informações de maneira organizada e acessível.
+- O objetivo deste projeto foi criar a estrutura de um banco de dados utilizando a linguagem SQL, com base em um Diagrama Entidade-Relacionamento previamente definido. Após a criação das tabelas, inseri dados no banco de dados que desenvolvi. Em seguida, realizei consultas nos dados armazenados por meio da criação de uma VIEW, o que me permite visualizar as informações de maneira organizada e acessível.
 
 <div>
   <img src="Banco de Dados/DER.png" width="500px">
