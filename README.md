@@ -14,7 +14,7 @@
       <td> • Criei uma base de dados chamada 'Loja' utilizando MySQL Server por meio do MySQL Workbench. Para isso, adicionei as estruturas de dados necessárias nesse banco, utilizando os comandos de definição de dados (DDL) da linguagem SQL, conforme o modelo que está definido no Diagrama Entidade-Relacionamento (DER) que eu tenho.</td>
       </tr>
       <tr> 
-        <td>• Durante a criação do banco de dados conforme a figura, segui algumas regra importantes. Primeiro, defini todas as chaves primárias como autoincremento. Além disso, respeitei os relacionamentos,   tipos, precisões e restrições de não nulo para garantir a integridade dos dados </td>
+        <td>• Durante a criação do banco de dados conforme a figura, segui algumas regra importantes. Primeiro, defini todas as chaves primárias como autoincremento. Além disso, respeitei os relacionamentos,   tipos, precisões e restrições de não nulo para garantir a integridade dos dados. </td>
       </tr>
       <tr>
         <td> • Especificamente, para o campo <b>'Situação' na tabela 'ContaReceber'</b>, optei por utilizar o tipo ENUM, limitando os valores a três opções: <br/>  <b>1 - Conta registrada</b>, <b> 2 - Conta cancelada</b> e <b>3 - Conta paga</b>.</td>
